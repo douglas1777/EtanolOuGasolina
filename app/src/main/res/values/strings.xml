@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol? Beta.1.1 </string>
+    <string name="info">Informe o preço da gasolina e do etanol pra comparar</string>
+    <string name="exemplo">3.99 por exemplo.</string>
+    <string name="shr_hint_gasolina">digite aqui o preço da gasolina</string>
+    <string name="shr_hint_etanol">Informe o preço do etanol</string>
+    <string name="btn_calc">Comparar Preço</string>
+    <string name="result">Resultado: </string>
+
+</resources>
